@@ -50,4 +50,10 @@ public class CmsPageRepositoryTest {
         System.out.println(cmsPage);
     }
 
+    @Test
+    public void test01(){
+        int a = 10 ;
+        System.out.println(a);
+    }
+
 }
