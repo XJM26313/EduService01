@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: org.hibernate.common:hibernate-commons-annotations:5.0.1.Final">
+    <CLASSES>
+      <root url="jar://F:/develop/maven/repository3/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://F:/develop/maven/repository3/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

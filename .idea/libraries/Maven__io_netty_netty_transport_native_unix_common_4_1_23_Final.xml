@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: io.netty:netty-transport-native-unix-common:4.1.23.Final">
+    <CLASSES>
+      <root url="jar://F:/develop/maven/repository3/io/netty/netty-transport-native-unix-common/4.1.23.Final/netty-transport-native-unix-common-4.1.23.Final.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://F:/develop/maven/repository3/io/netty/netty-transport-native-unix-common/4.1.23.Final/netty-transport-native-unix-common-4.1.23.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
